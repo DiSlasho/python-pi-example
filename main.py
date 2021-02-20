@@ -1,9 +1,9 @@
 
 def main(msg):
-	// Other Change
-	// metele su ga p beba gaaa
-	//print a message ga
+	// No longer comment
     print(msg)
 
+def secondary():
+	print("New Function")
 
 print("Hello World")
